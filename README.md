@@ -1,2 +1,2 @@
 # java-poc
-This repository will contain examples of java
+This repository will contain examples of java.
